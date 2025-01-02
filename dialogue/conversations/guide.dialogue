@@ -1,0 +1,14 @@
+~ start
+
+Fufu: [[Hi|Hello|Howdy]], nice to meet you.
+Fufu: Welcome to your new farm.
+Fufu: As you can see the cows and chickens are hungry.
+Fufu: You need to grow some crops to feed them.
+Fufu: Here are some seeds to grow some crops. 
+- Take crop seeds
+	Pupi:Yeah I can grow crops.
+	do GameDialogueManager.action_give_crop_seeds()
+- No, I don't want them
+	Pupi: I'm not ready to grow my farm yet.
+	
+=> END
