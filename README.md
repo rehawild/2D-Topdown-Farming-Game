@@ -28,7 +28,6 @@ This repository contains the project files for **Pupi's Farm**, a 2D top-down fa
 ## Project Structure
 The repository includes the following files and scripts:
 
-### Key Script Categories
 - **Core Components**:
   - `game_manager.gd`: Manages overall game logic.
   - `scene_manager.gd`: Handles scene transitions and management.
