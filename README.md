@@ -1,18 +1,18 @@
-# Sprout Lands - 2D Farming Game
+# Pupi's Farm - Godot Project Files
 
 ## Overview
-**Sprout Lands** is a 2D top-down farming game created using the **Godot Engine**. This project demonstrates modular programming, dynamic gameplay mechanics, and the effective integration of external assets. Built as part of a learning and portfolio development process, it highlights key skills in game development and programming.
+This repository contains the project files for **Pupi's Farm**, a 2D top-down farming game built in **Godot Engine**. These files demonstrate modular programming, dynamic gameplay mechanics, and the integration of external assets. Created as part of a learning process, this project showcases skills in game development and programming.
 
 ---
 
 ## Features
-- **Farming Mechanics**: Plant, grow, and harvest crops such as corn and tomatoes.
-- **Resource Management**: Collect items, manage tools, and use an inventory system.
-- **Day and Night Cycle**: Dynamic lighting and time-based events.
-- **Interactive NPCs**: Engage with non-playable characters to enrich gameplay.
-- **Tool Functionality**: Switch between tools for tasks like watering, chopping, and tilling.
-- **Save and Load System**: Store game progress using a robust save system.
-- **Dynamic Scenes**: Seamlessly manage and transition between scenes.
+- **Farming Mechanics**: Scripts for planting, growing, and harvesting crops such as corn and tomatoes.
+- **Resource Management**: Code for collecting items, managing tools, and handling an inventory system.
+- **Day and Night Cycle**: Implementation of dynamic lighting and time-based events.
+- **Interactive NPCs**: Scripts for NPC behavior and interaction.
+- **Tool Functionality**: Scripts for tools like watering cans, axes, and hoes.
+- **Save and Load System**: Code for storing and retrieving game progress.
+- **Dynamic Scenes**: Scene management and transitions.
 
 ---
 
@@ -20,13 +20,13 @@
 - **Engine**: Godot Engine
 - **Language**: GDScript
 - **Asset Pack Used**: [Sprout Lands Asset Pack by CupNooble](https://cupnooble.itch.io/sprout-lands-asset-pack)
-- **Platform Support**: Windows, Linux
+- **Platform Support**: Windows, Linux, HTML5
 - **Dependencies**: None
 
 ---
 
 ## Project Structure
-The project is modular and organized into several scripts:
+The repository includes the following files and scripts:
 
 ### Key Script Categories
 - **Core Components**:
@@ -46,14 +46,20 @@ The project is modular and organized into several scripts:
 
 ---
 
-## How to Play
+## How to Use
+1. **Download**:
+   - Clone the repository or download the project files.
+2. **Open in Godot**:
+   - Launch the Godot Engine and open the project folder.
+3. **Explore**:
+   - Review the scripts and project structure to understand the functionality.
 
-*This game is a work-in-progress developed as a learning project for game development and still getting critical updates. Therefore it's not ready for playing yet.*
+*Note: These files represent a learning project and are not a finished game.*
 
 ---
 
 ## Contribution
-This project is not currently open for contributions as it is part of a personal learning process. Feedback is welcome!
+This repository is not open for contributions, as it is part of a personal learning process. However, feedback and suggestions are welcome.
 
 ---
 
@@ -63,4 +69,5 @@ This project is not currently open for contributions as it is part of a personal
 ---
 
 ## License
-This project does not currently have a license, as it was developed for personal educational purposes and is not intended for redistribution or modification.
+This repository does not have a license, as it was created for educational purposes and is not intended for redistribution or modification.
+
